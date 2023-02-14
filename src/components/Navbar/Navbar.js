@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className="nav">
       <div className="container">
         <div className="nav-row">
-          <NavLink to="/" className="logo"><strong>Разработка сайтов</strong> Алексей Культин</NavLink>
+          <NavLink to="/portfolio-alex-kultin/" className="logo"><strong>Разработка сайтов</strong> Алексей Культин</NavLink>
 
           <BtnDarkMode />
 

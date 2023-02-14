@@ -27,7 +27,7 @@ const Header = () => {
           </div>
         </div>
         
-        <a href="#!" className="btn">Скачать резюме</a>
+        <a href="/portfolio-alex-kultin/CV.pdf" target="_blank" rel="noreferrer" className="btn">Скачать резюме</a>
       </div>
   </header>
   );
