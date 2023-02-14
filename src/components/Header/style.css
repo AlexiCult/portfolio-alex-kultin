@@ -1,0 +1,154 @@
+/* Header */
+
+.header {
+	padding: 40px 0;
+	min-height: 695px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background: var(--header-bg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+
+	color: var(--header-text);
+	text-shadow: 0px 0px 1px #000;
+	text-align: center;
+}
+
+.header__wrapper {
+	position: relative;
+	padding: 0 15px;
+	max-width: 660px;
+}
+
+.header__title {
+	position: relative;
+	z-index: 1;
+	margin-bottom: 20px;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 1.4;
+	
+	transition: 1.7s ease-in-out;
+	animation: switch-title1 12s linear infinite;
+}
+
+@keyframes switch-title1 {
+	0% {
+		filter: none;
+		opacity: 1;
+	}
+	35% {
+		filter: none;
+		opacity: 1;
+	}
+	50% {
+		filter: blur(60px);
+		opacity: 0;
+	}
+	85% {
+		filter: blur(60px);
+		opacity: 0;
+	}
+	100% {
+		filter: none;
+		opacity: 1;
+	}
+}
+
+.header__title strong {
+	font-size: 60px;
+	font-weight: 700;
+}
+
+.header__title em {
+	font-style: normal;
+	color: var(--accent);
+}
+
+.header__title2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	height: 75%;
+	z-index: 0;
+
+	font-size: 1.7rem;
+	font-weight: 700;
+
+	opacity: 0;
+	transition: 1.7s ease-in-out;
+	animation: switch-title2 12s linear infinite;
+}
+
+@keyframes switch-title2 {
+	0% {
+		filter: blur(60px);
+		opacity: 0;
+	}
+	35% {
+		filter: blur(60px);
+		opacity: 0;
+	}
+	50% {
+		filter: none;
+		opacity: 1;
+	}
+	85% {
+		filter: none;
+		opacity: 1;
+	}
+	100% {
+		filter: blur(60px);
+		opacity: 0;
+	}
+}
+
+.header__text {
+	margin-bottom: 40px;
+	font-size: 18px;
+	line-height: 1.333;
+}
+
+.header__text p + p {
+	margin-top: 0.5em;
+}
+
+.header__items {
+	display: flex;
+	align-items: flex-end;
+	margin: 15px;
+
+	/* border: 3px dashed #7f48e650; */
+	border-radius: 7px;
+}
+
+.header__items > div {
+	margin: 5px;
+}
+
+.header__items:first-child > div {
+	align-self: flex-start;
+}
+
+.header__items--welcome {
+	border: none;
+	font-size: 1.6rem;
+}
+
+.header__projects-arrow {
+	position: absolute;
+	right: 30px;
+	width: 15px;
+	height: 15px;
+	transform: rotate(-100deg);
+	border: solid white; 
+	border-width: 0 3px 3px 0;
+}
