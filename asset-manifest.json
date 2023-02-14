@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-alex-kultin/static/css/main.a6ff4295.css",
-    "main.js": "/portfolio-alex-kultin/static/js/main.8b56853c.js",
+    "main.js": "/portfolio-alex-kultin/static/js/main.4f64637d.js",
     "static/js/787.8b11e2ca.chunk.js": "/portfolio-alex-kultin/static/js/787.8b11e2ca.chunk.js",
     "static/media/01-big.png": "/portfolio-alex-kultin/static/media/01-big.0c96dd54a5a904594869.png",
     "static/media/01.png": "/portfolio-alex-kultin/static/media/01.4a5a0de2067457a953b2.png",
@@ -24,11 +24,11 @@
     "static/media/gitHub.svg": "/portfolio-alex-kultin/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
     "index.html": "/portfolio-alex-kultin/index.html",
     "main.a6ff4295.css.map": "/portfolio-alex-kultin/static/css/main.a6ff4295.css.map",
-    "main.8b56853c.js.map": "/portfolio-alex-kultin/static/js/main.8b56853c.js.map",
+    "main.4f64637d.js.map": "/portfolio-alex-kultin/static/js/main.4f64637d.js.map",
     "787.8b11e2ca.chunk.js.map": "/portfolio-alex-kultin/static/js/787.8b11e2ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6ff4295.css",
-    "static/js/main.8b56853c.js"
+    "static/js/main.4f64637d.js"
   ]
 }
