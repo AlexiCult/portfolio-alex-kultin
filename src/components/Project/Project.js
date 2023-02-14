@@ -6,7 +6,7 @@ import "./style.css"
 const Project = ({title, img, index}) => {
   return (
     <li className="project">
-    <NavLink to={`/project/${index}`}>
+    <NavLink to={`/portfolio-alex-kultin/project/${index}`}>
       <img src={img} alt={title} className="project__img" />
       <h3 className="project__title">{title}</h3>
     </NavLink>
