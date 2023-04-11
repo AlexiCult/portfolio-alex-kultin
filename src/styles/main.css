@@ -9,6 +9,7 @@
 	--white: #fff;
 	--purple: hsl(261, 76%, 59%);
 	--purple-saturated: hsl(261, 100%, 50%);
+	--blue: hsl(206, 100%, 46%);
 
 	/* Nav */
 	--nav-bg: var(--black);

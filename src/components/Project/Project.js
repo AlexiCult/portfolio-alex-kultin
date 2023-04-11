@@ -1,16 +1,17 @@
-import { NavLink } from "react-router-dom";
+// import { NavLink } from "react-router-dom";
 
 import "./style.css"
 
 
-const Project = ({title, img, index}) => {
+const Project = ({title, skills, img, siteLink, gitHubLink}) => {
   return (
     <li className="project">
-    <NavLink to={`/portfolio-alex-kultin/project/${index}`}>
       <img src={img} alt={title} className="project__img" />
       <h3 className="project__title">{title}</h3>
-    </NavLink>
-  </li>
+      <h4 className="project__skills">{skills}</h4>
+      {siteLink && (<a href={siteLink} target="_blank" rel="noreferrer">Ссылка на сайт</a>)}
+      {gitHubLink && (<a href={gitHubLink} target="_blank" rel="noreferrer">Ссылка на GitHub</a>)}
+    </li>
   );
 }
 
