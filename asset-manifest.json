@@ -1,34 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio-alex-kultin/static/css/main.a6ff4295.css",
-    "main.js": "/portfolio-alex-kultin/static/js/main.8d7985ce.js",
+    "main.css": "/portfolio-alex-kultin/static/css/main.1e32bd72.css",
+    "main.js": "/portfolio-alex-kultin/static/js/main.5eb1e296.js",
     "static/js/787.8b11e2ca.chunk.js": "/portfolio-alex-kultin/static/js/787.8b11e2ca.chunk.js",
     "static/media/01-big.png": "/portfolio-alex-kultin/static/media/01-big.0c96dd54a5a904594869.png",
     "static/media/01.png": "/portfolio-alex-kultin/static/media/01.4a5a0de2067457a953b2.png",
     "static/media/02-big.png": "/portfolio-alex-kultin/static/media/02-big.aea31de989a3b9cbdcdf.png",
+    "static/media/05.png": "/portfolio-alex-kultin/static/media/05.4dd7ac6f7983016853c2.png",
     "static/media/02.png": "/portfolio-alex-kultin/static/media/02.011eeef5f1a0ec996d57.png",
     "static/media/04.png": "/portfolio-alex-kultin/static/media/04.e011dfef7899c956472e.png",
     "static/media/03-big.png": "/portfolio-alex-kultin/static/media/03-big.3915d21b14092b8e40a8.png",
     "static/media/03.png": "/portfolio-alex-kultin/static/media/03.a82e47cad4c9c8a60109.png",
     "static/media/04-big.png": "/portfolio-alex-kultin/static/media/04-big.35965c4f0af864b80617.png",
+    "static/media/06.png": "/portfolio-alex-kultin/static/media/06.4e03fa7afa05c01e9ae0.png",
     "static/media/blue-liquid-color-01.png": "/portfolio-alex-kultin/static/media/blue-liquid-color-01.05f4c5c0905d266b06c2.png",
     "static/media/starry-sky-purple-sky.jpg": "/portfolio-alex-kultin/static/media/starry-sky-purple-sky.3ea75c1ffaa0b2193678.jpg",
-    "static/media/wordpress-logo-29017.png": "/portfolio-alex-kultin/static/media/wordpress-logo-29017.d0af90281f87e7c76d84.png",
-    "static/media/external-link.png": "/portfolio-alex-kultin/static/media/external-link.7b68d40aa7bcb8d86cf1.png",
-    "static/media/CSS3.png": "/portfolio-alex-kultin/static/media/CSS3.074442116fed6a571135.png",
-    "static/media/React.png": "/portfolio-alex-kultin/static/media/React.dc461728c889a8c4d604.png",
-    "static/media/Sass_Logo_Color.png": "/portfolio-alex-kultin/static/media/Sass_Logo_Color.9af02afcdca8d33ffb71.png",
-    "static/media/JS.png": "/portfolio-alex-kultin/static/media/JS.f19911042f2f0e3d1fe5.png",
     "static/media/sun.svg": "/portfolio-alex-kultin/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/portfolio-alex-kultin/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/gitHub.svg": "/portfolio-alex-kultin/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
     "index.html": "/portfolio-alex-kultin/index.html",
-    "main.a6ff4295.css.map": "/portfolio-alex-kultin/static/css/main.a6ff4295.css.map",
-    "main.8d7985ce.js.map": "/portfolio-alex-kultin/static/js/main.8d7985ce.js.map",
+    "main.1e32bd72.css.map": "/portfolio-alex-kultin/static/css/main.1e32bd72.css.map",
+    "main.5eb1e296.js.map": "/portfolio-alex-kultin/static/js/main.5eb1e296.js.map",
     "787.8b11e2ca.chunk.js.map": "/portfolio-alex-kultin/static/js/787.8b11e2ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6ff4295.css",
-    "static/js/main.8d7985ce.js"
+    "static/css/main.1e32bd72.css",
+    "static/js/main.5eb1e296.js"
   ]
 }
